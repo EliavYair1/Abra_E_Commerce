@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Black T-shirt",
+    "price": 89,
+    "image": "https://elad-test-1.s3.amazonaws.com/tshirt.png",
+    "quantity": 5,
+    "catagories": ["clothing", "best-seller"]
+  },
+  {
+    "id": 2,
+    "name": "White Mouse Pad",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/white-pad.png",
+    "quantity": 10,
+    "catagories": ["office", "best-seller"]
+  },
+  {
+    "id": 3,
+    "name": "Black Canvas bag",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/black-canvas.png",
+    "quantity": 3,
+    "catagories": ["home"]
+  },
+  {
+    "id": 4,
+
+    "name": "White Hat",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/white-hat.png",
+    "quantity": 1,
+    "catagories": ["clothing"]
+  },
+  {
+    "id": 5,
+
+    "name": "Black Bottle",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/black-bottle.png",
+    "quantity": 5,
+    "catagories": ["sports", "home", "best-seller"]
+  },
+  {
+    "id": 6,
+
+    "name": "Black Notebook",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/note.png",
+    "quantity": 5,
+    "catagories": ["office", "best-seller"]
+  },
+  {
+    "id": 7,
+
+    "name": "White Bottle",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/white-bottle.png",
+    "quantity": 5,
+    "catagories": ["home", "sports", "best-seller"]
+  },
+
+  {
+    "id": 8,
+
+    "name": "White Mug",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/white-mug.png",
+    "quantity": 5,
+    "catagories": ["office", "best-seller", "home"]
+  },
+  {
+    "id": 9,
+
+    "name": "Black Mouse Pad",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/black-pad.png",
+    "quantity": 5,
+    "catagories": ["office"]
+  },
+  {
+    "id": 10,
+
+    "name": "Pens",
+    "price": 57,
+    "image": "https://elad-test-1.s3.amazonaws.com/pens.png",
+    "quantity": 5,
+    "catagories": ["office", "best-seller", "home"]
+  }
+]
